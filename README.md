@@ -1,5 +1,5 @@
 How To: Tabs
 ============
 
-To run the build type: 'node build.js'
+To run the build type: 'node Jakefile.js'
 
