@@ -1,5 +1,6 @@
 How To: Tabs
 ============
 
-To run the build type: 'node Jakefile.js'
+First install jake - 'npm install jake -g'
+To run jake type: 'jake'
 
